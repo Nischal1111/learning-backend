@@ -8,6 +8,10 @@ const blogSchema=mongoose.Schema({
     blog:{
         type:String,
         required:true
+
+    },
+    no:{
+
     }
 })
 
